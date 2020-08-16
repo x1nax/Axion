@@ -1194,7 +1194,7 @@ a:hover {
   .video::before {
     content: "";
     position: absolute;
-    height: 36px;
+    height: 38px;
     width: 100%;
     background: black;
     top: -20px;
@@ -1652,6 +1652,10 @@ a:hover {
 
   .video-wrap__button img {
     width: 46%;
+  }
+
+  .video::before {
+    width: 36px;
   }
 
   .news {
