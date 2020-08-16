@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Gotham Pro-normal';
+  src: url('../fonts/GothamPro-Light.woff') format('woff'), url('../fonts/GothamPro.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gotham Pro';
+  src: url('../fonts/GothamPro-Bold.woff') format('woff'), url('../fonts/GothamPro-Bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+.body {
+  font-family: 'Gotham Pro', sans-serif;
+}
+
+.product__name,
+.video-text__content,
+.storie__text,
+.group__link {
+  font-family: 'Gotham Pro-normal', sans-serif;
+}
