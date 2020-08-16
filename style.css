@@ -443,7 +443,7 @@ a:hover {
   line-height: 17px;
   margin-bottom: 15px;
   font-weight: 300;
-  width: 99%;
+  width: 280px;
 }
 
 .storie__link {
@@ -870,7 +870,7 @@ a:hover {
   }
 
   .storie__text {
-    width: 274px;
+    width: 276px;
     line-height: 16px;
     margin-bottom: 21px;
     font-weight: 300;
@@ -1197,7 +1197,7 @@ a:hover {
     height: 36px;
     width: 100%;
     background: black;
-    top: -18px;
+    top: -20px;
     transform: skewY(2.6deg);
   }
 
